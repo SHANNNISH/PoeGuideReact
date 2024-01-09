@@ -2,7 +2,7 @@
   "name": "poeguidereact",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://shannnish.github.io/PoeGuideReact",
+  "homepage": "https://shannnish.github.io/PoeGuideReact/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
