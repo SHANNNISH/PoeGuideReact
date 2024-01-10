@@ -2,11 +2,11 @@
   "name": "poeguidereact",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://shannnish.github.io/PoeGuideReact/",
+  "homepage": "https://shannnish.github.io/PoeGuideReact",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "npm run build && gh-pages -d build",
+    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
